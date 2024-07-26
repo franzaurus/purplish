@@ -1,0 +1,2 @@
+# purplish
+A WordPress theme.
