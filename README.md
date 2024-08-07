@@ -1,5 +1,5 @@
 # Purplish
-A WordPress theme with a three-layer parallax hero section. Here I take inspiration from the works of Studio VØR and WebDev For You, which designed and built the website in Webflow respectively. This theme is based on Twenty Twenty-Four theme. I don't own any images that are included in this work. All the images are the property of their respective owner. 
+A WordPress theme with a three-layer parallax hero section. Here I take inspiration from the works of Studio VØR and WebDev For You. I built this theme on top of the Twenty Twenty-Four theme. Disclaimer: I don't own any images that are included in this work. All the images are the property of their respective owner. 
 
 - Demo site: http://https://krai.dwrf.my.id/ 
 - Studio VØR: https://dribbble.com/studiovor 
